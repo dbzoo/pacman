@@ -22,4 +22,4 @@ Controls
 Screenshots
 -----------
 
-![shot1](doc/shot1.jpg) ![shot2](doc/shot2.jpg) ![shot3](doc/shot3.jpg)
+![shot1](docs/shot1.jpg) ![shot2](docs/shot2.jpg) ![shot3](docs/shot3.jpg)
